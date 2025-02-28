@@ -3,6 +3,8 @@
 *Yue Fan, Ivan Skorokhodov, Oleg Voynov, Savva Ignatyev, Evgeny Burnaev, Peter Wonka, Yiqun Wang*
 **[[Paper Website]](https://yiqun-wang.github.io/Factored-NeuS)**
 
+To appear in CVPR 2025
+
 ## Abstract
 We develop a method that recovers the surface, materials, and illumination of a scene from its posed multi-view images.
 In contrast to prior work, it does not require any additional data and can handle glossy objects or bright lighting.
