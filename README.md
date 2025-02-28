@@ -1,6 +1,6 @@
 # Factored-NeuS: Reconstructing Surfaces, Illumination, and Materials of Possibly Glossy Objects
 
-*Yue Fan, Ivan Skorokhodov, Oleg Voynov, Savva Ignatyev, Evgeny Burnaev, Peter Wonka, Yiqun Wang*
+*Yue Fan, Ningjing Fan, Ivan Skorokhodov, Oleg Voynov, Savva Ignatyev, Evgeny Burnaev, Peter Wonka, Yiqun Wang*
 **[[Paper Website]](https://yiqun-wang.github.io/Factored-NeuS)**
 
 To appear in CVPR 2025
